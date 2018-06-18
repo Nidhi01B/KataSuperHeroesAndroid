@@ -4,7 +4,7 @@
 - We are here to practice UI Testing.
 - We are going to use [Espresso][espresso] to interact with the Application UI.
 - We are going to use [Dagger2][dagger2] to replace production code with [Test Doubles][testDoubles].
-- We are going to practice pair programming.
+- We are going to practice pair programming. Test
 
 ---
 
